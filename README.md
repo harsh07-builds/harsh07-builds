@@ -1,112 +1,140 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Harsh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20and%20AI%2FMl%20engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<div align="center">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=harsh07-builds">
-    <img src="https://komarev.com/ghpvc/?username=harsh07-builds&label=Profile%20views&color=00FFFF&style=flat-square" alt="harsh07-builds's profile views" />
+  <!-- Local Custom Obsidian & Crimson Vector Banner -->
+  <img src="assets/banner.svg" alt="Harsh" width="100%" />
+
+  <br/>
+
+  <!-- Animated Glowing Red Typing Subtitle -->
+  <a href="https://github.com/harsh07-builds">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF1E27&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Cloud+Developer+(Spring+Boot+%7C+React+%7C+AWS)+%F0%9F%92%BB;Building+RAG+Apps+with+LangChain+%F0%9F%A4%96;200%2B+DSA+Problems+Solved+on+LeetCode+%F0%9F%A7%A0;Finalist+%40+JHU+%C3%97+VITB+Health+Hackathon+2026+%F0%9F%8F%86;Building+Scalable+Low-Latency+Backends+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
-</p>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
+  <br/>
 
-## 📌 About Me
-- > Name          : Harsh
-- > Focus         : Full-Stack Engineering, Cloud Systems , Low-Latency APIs, Ai/ml
-- > Education     : BTECH - Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SGPA:8.65)
-- > Core Stack    :Springboot • React • RAG • Langchain • PostgreSQL • Redis
-- > Cloud & Ops   : AWS (Lambda, EventBridge, SQS, API GW, Step Functions, CloudWatch) • Docker
-- > Problem Solver: 200+ LeetCode DSA Solutions in Java
-- > Achievements  : Finalist @JHU (Johns Hopkins University) × VITB Health Hackathon 2026
+  <!-- Status & Highlight Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Education-VIT%20Bhopal%20University%20(8.65%20SGPA)-FF1E27?style=for-the-badge&logoColor=white&labelColor=000000" alt="Education" />
+    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-000000?style=for-the-badge&logo=leetcode&logoColor=FF1E27&labelColor=000000" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/Hackathon-JHU%20%C3%97%20VITB%202026%20Finalist-FF1E27?style=for-the-badge&logoColor=white&labelColor=000000" alt="Hackathon" />
+    <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-000000?style=for-the-badge&logoColor=white&labelColor=000000" alt="Status" />
+  </p>
+
+  <!-- Connect Links in Red & Black -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/harsh-19b565383" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1E27" alt="LinkedIn" />
+    </a>
+    <a href="mailto:harsh.connect.in@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1E27" alt="Email" />
+    </a>
+    <a href="https://github.com/harsh07-builds">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1E27" alt="GitHub" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### ⚔️ Terminal Profile
+
+```zsh
+harsh@workstation:~$ neofetch --profile
 -------------------------------------------------------------------------
+> Name          : Harsh
+> Focus         : Full-Stack Engineering, Cloud Systems, Low-Latency APIs & AI/ML
+> Education     : B.Tech in CSE (AI & ML) @ VIT Bhopal University (SGPA: 8.65)
+> Core Stack    : Spring Boot • React • RAG • LangChain • PostgreSQL • Redis
+> Cloud & Ops   : AWS (Lambda, EventBridge, SQS, API GW, Step Functions, CloudWatch) • Docker
+> Problem Solver: 200+ LeetCode DSA Solutions in Java
+> Achievements  : Finalist @ JHU × VITB Health Hackathon 2026
+-------------------------------------------------------------------------
+```
 
+---
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/harsh07-builds">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harsh07-builds&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="harsh07-builds's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=harsh07-builds&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="harsh07-builds's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=harsh07-builds&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Harsh's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh07-builds&theme=gruvbox&radius=10" alt="harsh07-builds's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+### 🏆 Honors & Key Engineering Highlights
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Core Engineering Highlights</h4>
+      <ul>
+        <li>📡 <b>Offline-First Systems:</b> Built <b>SetuSync</b>, a knowledge-sharing platform using digitally signed capsules, QR, Bluetooth and peer-to-peer sync.</li>
+        <li>🤖 <b>RAG Pipelines:</b> Shipped retrieval-augmented chatbots with <b>LangChain, FAISS</b> and <b>HuggingFace</b> embeddings behind <b>FastAPI</b>.</li>
+        <li>👁️ <b>Assistive AI:</b> Designed a CPU-only, no-cloud <b>YOLOv8</b> pipeline that speaks spatial scene descriptions, with fuzz-tested guardrails.</li>
+        <li>☁️ <b>Cloud Architecture:</b> Working with AWS serverless stacks (Lambda, EventBridge, SQS, Step Functions, CloudWatch).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎖️ Honors &amp; Milestones</h4>
+      <ul>
+        <li>🏆 <b>Finalist</b> — <i>JHU × VITB Health Hackathon 2026</i></li>
+        <li>🧠 <b>200+ DSA Problems Solved</b> on <i>LeetCode</i> in <i>Java</i>.</li>
+        <li>🎓 <b>8.65 SGPA</b> — <i>B.Tech CSE (AI &amp; ML), VIT Bhopal University</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Languages & Tools
+---
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  <!-- Crimson Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh07-builds/harsh07-builds/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harsh07-builds/harsh07-builds/output/github-contribution-grid-snake.svg">
+    <img alt="Harsh's Contribution Snake" src="https://raw.githubusercontent.com/harsh07-builds/harsh07-builds/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 
-</p>
+---
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/harsh07-builds">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harsh07-builds&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=harsh07-builds)
-<br/>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/harsh-19b565383">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:harsh.connect.in@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
+### 🛠️ Weapons of Choice (Tech Stack)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,python,html,react,tailwind,spring,fastapi,postgres,mysql,redis,aws,docker,git,github,vscode&perline=8&theme=dark" alt="Tech Stack Icons" />
+    </a>
+  </p>
 </div>
 
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <b>💻 Languages &amp; Frontend</b><br/>
+      <code>Java</code> <code>Python</code> <code>HTML5</code> <code>React</code> <code>Tailwind CSS</code>
+    </td>
+    <td width="33%" valign="top">
+      <b>⚙️ Backend, Data &amp; AI</b><br/>
+      <code>Spring Boot</code> <code>FastAPI</code> <code>REST APIs</code> <code>PostgreSQL</code> <code>MySQL</code> <code>Redis</code> <code>RAG</code> <code>LangChain</code> <code>FAISS</code> <code>YOLOv8</code>
+    </td>
+    <td width="33%" valign="top">
+      <b>☁️ Cloud &amp; DevOps</b><br/>
+      <code>AWS Lambda</code> <code>API Gateway</code> <code>EventBridge</code> <code>SQS</code> <code>Step Functions</code> <code>CloudWatch</code> <code>Docker</code> <code>Git</code> <code>VS Code</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Repositories & Engineering Builds
+
+| Project | Highlights & Architecture | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 📡 **SetuSync** | Offline-first knowledge-sharing platform for secure information exchange. Digitally signed knowledge capsules shared over QR, Bluetooth, peer-to-peer and network sync, with local and semantic search, integrity verification, delta sync, freshness policies and background sync for low-connectivity environments. | `Spring Boot` `PostgreSQL` `TypeScript` `PWA` `AWS` | [Repo](https://github.com/harsh07-builds/SetuSync) |
+| 🌊 **ARGO RAG Chatbot** | Retrieval-Augmented Generation chatbot that answers questions from custom ARGO oceanographic data using vector search over HuggingFace embeddings. | `LangChain` `FAISS` `HuggingFace` `FastAPI` | [Repo](https://github.com/harsh07-builds/ARGO-rag-chatbot) |
+| 🦯 **Scene Narrator** | Offline assistive pipeline that turns camera images into spoken spatial descriptions ("A laptop is resting on the desk"). YOLOv8 detection → geometric spatial reasoning → deterministic NLG → TTS. CPU-only, no cloud, fuzz-tested plausibility guardrails and CI. | `YOLOv8` `FastAPI` `Streamlit` `Python` `TTS` | [Repo](https://github.com/harsh07-builds/scene-narrator-for-accessibility) |
+
+### ⚡ Philosophy
+
+<div align="center">
+  <blockquote>
+    “Code is like humor. When you have to explain it, it’s bad.” – Cory House 😄
+  </blockquote>
+  <p>🔥 Passionate about building robust distributed systems, low-latency APIs, and intelligent AI-powered applications.</p>
+</div>
+
+<div align="center">
+  <img src="assets/footer.svg" alt="Footer Banner" width="100%" />
+</div>
