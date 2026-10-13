@@ -126,15 +126,3 @@ harsh@workstation:~$ neofetch --profile
 | 🌊 **ARGO RAG Chatbot** | Retrieval-Augmented Generation chatbot that answers questions from custom ARGO oceanographic data using vector search over HuggingFace embeddings. | `LangChain` `FAISS` `HuggingFace` `FastAPI` | [Repo](https://github.com/harsh07-builds/ARGO-rag-chatbot) |
 | 🦯 **Scene Narrator** | Offline assistive pipeline that turns camera images into spoken spatial descriptions ("A laptop is resting on the desk"). YOLOv8 detection → geometric spatial reasoning → deterministic NLG → TTS. CPU-only, no cloud, fuzz-tested plausibility guardrails and CI. | `YOLOv8` `FastAPI` `Streamlit` `Python` `TTS` | [Repo](https://github.com/harsh07-builds/scene-narrator-for-accessibility) |
 
-### ⚡ Philosophy
-
-<div align="center">
-  <blockquote>
-    “Code is like humor. When you have to explain it, it’s bad.” – Cory House 😄
-  </blockquote>
-  <p>🔥 Passionate about building robust distributed systems, low-latency APIs, and intelligent AI-powered applications.</p>
-</div>
-
-<div align="center">
-  <img src="assets/footer.svg" alt="Footer Banner" width="100%" />
-</div>
