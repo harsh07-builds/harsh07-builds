@@ -70,7 +70,7 @@ harsh@workstation:~$ neofetch --profile
     <td width="50%" valign="top">
       <h4>🎖️ Honors &amp; Milestones</h4>
       <ul>
-        <li>🏆 <b>Finalist</b> — <i>JHU × VITB Health Hackathon 2026</i></li>
+        <li>🏆 <b>Finalist</b> — <i>JHU × VITB Health Hackathon 2025</i></li>
         <li>🧠 <b>200+ DSA Problems Solved</b> on <i>LeetCode</i> in <i>Java</i>.</li>
         <li>🎓 <b>8.65 SGPA</b> — <i>B.Tech CSE (AI &amp; ML), VIT Bhopal University</i></li>
       </ul>
