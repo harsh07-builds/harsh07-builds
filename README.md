@@ -7,7 +7,7 @@
 
   <!-- Animated Glowing Red Typing Subtitle -->
   <a href="https://github.com/harsh07-builds">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF1E27&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Cloud+Developer+(Spring+Boot+%7C+React+%7C+AWS)+%F0%9F%92%BB;Building+RAG+Apps+with+LangChain+%F0%9F%A4%96;200%2B+DSA+Problems+Solved+on+LeetCode+%F0%9F%A7%A0;Finalist+%40+JHU+%C3%97+VITB+Health+Hackathon+2026+%F0%9F%8F%86;Building+Scalable+Low-Latency+Backends+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF1E27&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Cloud+Developer+(Spring+Boot+%7C+React+%7C+AWS)+%F0%9F%92%BB;Building+RAG+Apps+with+LangChain+%F0%9F%A4%96;250+%2B+DSA+Problems+Solved+on+LeetCode+%F0%9F%A7%A0;Finalist+%40+JHU+%C3%97+VITB+Health+Hackathon+2026+%F0%9F%8F%86;Building+Scalable+Low-Latency+Backends+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -15,7 +15,7 @@
   <!-- Status & Highlight Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Education-VIT%20Bhopal%20University%20(8.65%20SGPA)-FF1E27?style=for-the-badge&logoColor=white&labelColor=000000" alt="Education" />
-    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-000000?style=for-the-badge&logo=leetcode&logoColor=FF1E27&labelColor=000000" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-250+%2B%20Solved-000000?style=for-the-badge&logo=leetcode&logoColor=FF1E27&labelColor=000000" alt="LeetCode" />
     <img src="https://img.shields.io/badge/Hackathon-JHU%20%C3%97%20VITB%202026%20Finalist-FF1E27?style=for-the-badge&logoColor=white&labelColor=000000" alt="Hackathon" />
     <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-000000?style=for-the-badge&logoColor=white&labelColor=000000" alt="Status" />
   </p>
@@ -47,7 +47,7 @@ harsh@workstation:~$ neofetch --profile
 > Education     : B.Tech in CSE (AI & ML) @ VIT Bhopal University (SGPA: 8.65)
 > Core Stack    : Spring Boot • React • RAG • LangChain • PostgreSQL • Redis
 > Cloud & Ops   : AWS (Lambda, EventBridge, SQS, API GW, Step Functions, CloudWatch) • Docker
-> Problem Solver: 200+ LeetCode DSA Solutions in Java
+> Problem Solver: 250+ LeetCode DSA Solutions in Java
 > Achievements  : Finalist @ JHU × VITB Health Hackathon 2026
 -------------------------------------------------------------------------
 ```
@@ -71,7 +71,7 @@ harsh@workstation:~$ neofetch --profile
       <h4>🎖️ Honors &amp; Milestones</h4>
       <ul>
         <li>🏆 <b>Finalist</b> — <i>JHU × VITB Health Hackathon 2025</i></li>
-        <li>🧠 <b>200+ DSA Problems Solved</b> on <i>LeetCode</i> in <i>Java</i>.</li>
+        <li>🧠 <b>250+ DSA Problems Solved</b> on <i>LeetCode</i> in <i>Java</i>.</li>
         <li>🎓 <b>8.65 SGPA</b> — <i>B.Tech CSE (AI &amp; ML), VIT Bhopal University</i></li>
       </ul>
     </td>
@@ -123,6 +123,6 @@ harsh@workstation:~$ neofetch --profile
 | Project | Highlights & Architecture | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | 📡 **SetuSync** | Offline-first knowledge-sharing platform for secure information exchange. Digitally signed knowledge capsules shared over QR, Bluetooth, peer-to-peer and network sync, with local and semantic search, integrity verification, delta sync, freshness policies and background sync for low-connectivity environments. | `Spring Boot` `PostgreSQL` `TypeScript` `PWA` `AWS` | [Repo](https://github.com/harsh07-builds/SetuSync) |
-| 🌊 **ARGO RAG Chatbot** | Retrieval-Augmented Generation chatbot that answers questions from custom ARGO oceanographic data using vector search over HuggingFace embeddings. | `LangChain` `FAISS` `HuggingFace` `FastAPI` | [Repo](https://github.com/harsh07-builds/ARGO-rag-chatbot) |
+| 🌊 **ARGO RAG Chatbot** | Retrieval-Augmented Generation chatbot that answers questions from custom ARGO oceanographic data using vector search over HuggingFace embeddings. | `LangChain` `FAISS` `RAG` `FastAPI` | [Repo](https://github.com/harsh07-builds/ARGO-rag-chatbot) |
 | 🦯 **Scene Narrator** | Offline assistive pipeline that turns camera images into spoken spatial descriptions ("A laptop is resting on the desk"). YOLOv8 detection → geometric spatial reasoning → deterministic NLG → TTS. CPU-only, no cloud, fuzz-tested plausibility guardrails and CI. | `YOLOv8` `FastAPI` `Streamlit` `Python` `TTS` | [Repo](https://github.com/harsh07-builds/scene-narrator-for-accessibility) |
 
