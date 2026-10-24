@@ -7,7 +7,7 @@
 
   <!-- Animated Glowing Red Typing Subtitle -->
   <a href="https://github.com/harsh07-builds">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF1E27&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Cloud+Developer+(Spring+Boot+%7C+React+%7C+AWS)+%F0%9F%92%BB;Building+RAG+Apps+with+LangChain+%F0%9F%A4%96;250+%2B+DSA+Problems+Solved+on+LeetCode+%F0%9F%A7%A0;Finalist+%40+JHU+%C3%97+VITB+Health+Hackathon+2026+%F0%9F%8F%86;Building+Scalable+Low-Latency+Backends+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF1E27&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Cloud+Developer+(Spring+Boot+%7C+React+%7C+AWS)+%F0%9F%92%BB;Building+RAG+Apps+with+LangChain+%F0%9F%A4%96;250%2B+DSA+Problems+Solved+on+LeetCode+%F0%9F%A7%A0;Finalist+%40+JHU+%C3%97+VITB+Health+Hackathon+2026+%F0%9F%8F%86;Building+Scalable+Low-Latency+Backends+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 
   <br/>
