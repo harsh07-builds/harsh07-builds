@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
   <!-- Local Custom Obsidian & Crimson Vector Banner -->
   <img src="assets/banner.svg" alt="Harsh" width="100%" />
@@ -15,7 +15,7 @@
   <!-- Status & Highlight Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Education-VIT%20Bhopal%20University%20(8.65%20SGPA)-FF1E27?style=for-the-badge&logoColor=white&labelColor=000000" alt="Education" />
-    <img src="https://img.shields.io/badge/LeetCode-250+%2B%20Solved-000000?style=for-the-badge&logo=leetcode&logoColor=FF1E27&labelColor=000000" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-000000?style=for-the-badge&logo=leetcode&logoColor=FF1E27&labelColor=000000" alt="LeetCode" />
     <img src="https://img.shields.io/badge/Hackathon-JHU%20%C3%97%20VITB%202026%20Finalist-FF1E27?style=for-the-badge&logoColor=white&labelColor=000000" alt="Hackathon" />
     <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-000000?style=for-the-badge&logoColor=white&labelColor=000000" alt="Status" />
   </p>
